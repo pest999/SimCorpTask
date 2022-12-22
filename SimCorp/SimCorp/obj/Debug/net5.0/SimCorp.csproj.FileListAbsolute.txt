@@ -1,0 +1,16 @@
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\SimCorp\bin\Debug\net5.0\SimCorp.exe
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\SimCorp\bin\Debug\net5.0\SimCorp.deps.json
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\SimCorp\bin\Debug\net5.0\SimCorp.runtimeconfig.json
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\SimCorp\bin\Debug\net5.0\SimCorp.runtimeconfig.dev.json
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\SimCorp\bin\Debug\net5.0\SimCorp.dll
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\SimCorp\bin\Debug\net5.0\SimCorp.pdb
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\SimCorp\obj\Debug\net5.0\SimCorp.csproj.AssemblyReference.cache
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\SimCorp\obj\Debug\net5.0\SimCorp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\SimCorp\obj\Debug\net5.0\SimCorp.AssemblyInfoInputs.cache
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\SimCorp\obj\Debug\net5.0\SimCorp.AssemblyInfo.cs
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\SimCorp\obj\Debug\net5.0\SimCorp.csproj.CoreCompileInputs.cache
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\SimCorp\obj\Debug\net5.0\SimCorp.dll
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\SimCorp\obj\Debug\net5.0\refint\SimCorp.dll
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\SimCorp\obj\Debug\net5.0\SimCorp.pdb
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\SimCorp\obj\Debug\net5.0\SimCorp.genruntimeconfig.cache
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\SimCorp\obj\Debug\net5.0\ref\SimCorp.dll

@@ -1,0 +1,1 @@
+Using using simply creates a scope for an IDisposable resource such that when it leaves that scope, IDisposable.Dispose() is invoked. A good implementation of IDisposable.Dispose() should tolerate the object already having been disposed, so extra Dispose() calls will not affect proper implementations of the pattern.
