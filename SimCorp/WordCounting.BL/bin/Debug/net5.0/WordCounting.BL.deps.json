@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WordCounting.BL/1.0.0": {
+        "dependencies": {
+          "WordCounting.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "WordCounting.BL.dll": {}
+        }
+      },
+      "WordCounting.Abstractions/1.0.0": {
+        "runtime": {
+          "WordCounting.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WordCounting.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WordCounting.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

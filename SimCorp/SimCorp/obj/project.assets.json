@@ -1,11 +1,110 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        },
+        "build": {
+          "buildTransitive/netcoreapp2.0/Microsoft.Extensions.DependencyInjection.Abstractions.targets": {}
+        }
+      },
+      "WordCounting.Abstractions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/WordCounting.Abstractions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WordCounting.Abstractions.dll": {}
+        }
+      },
+      "WordCounting.BL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "WordCounting.Abstractions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WordCounting.BL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WordCounting.BL.dll": {}
+        }
+      },
+      "WordCounting.Settings/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0",
+          "WordCounting.Abstractions": "1.0.0",
+          "WordCounting.BL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WordCounting.Settings.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WordCounting.Settings.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0": {
+      "sha512": "h3j/QfmFN4S0w4C2A6X7arXij/M/OVw3uQHSOFxnND4DyAzO1F9eMX7Eti7lU/OkSthEE0WzRsfT/Dmx86jzCw==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Extensions.DependencyInjection.Abstractions.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.DependencyInjection.Abstractions.targets",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "WordCounting.Abstractions/1.0.0": {
+      "type": "project",
+      "path": "../WordCounting.Abstractions/WordCounting.Abstractions.csproj",
+      "msbuildProject": "../WordCounting.Abstractions/WordCounting.Abstractions.csproj"
+    },
+    "WordCounting.BL/1.0.0": {
+      "type": "project",
+      "path": "../WordCounting.BL/WordCounting.BL.csproj",
+      "msbuildProject": "../WordCounting.BL/WordCounting.BL.csproj"
+    },
+    "WordCounting.Settings/1.0.0": {
+      "type": "project",
+      "path": "../WordCounting.Settings/WordCounting.Settings.csproj",
+      "msbuildProject": "../WordCounting.Settings/WordCounting.Settings.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "WordCounting.Abstractions >= 1.0.0",
+      "WordCounting.Settings >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\artem.kvashnin\\.nuget\\packages\\": {}
@@ -33,7 +132,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\artem.kvashnin\\source\\repos\\SimCorpTask\\SimCorp\\WordCounting.Abstractions\\WordCounting.Abstractions.csproj": {
+              "projectPath": "C:\\Users\\artem.kvashnin\\source\\repos\\SimCorpTask\\SimCorp\\WordCounting.Abstractions\\WordCounting.Abstractions.csproj"
+            },
+            "C:\\Users\\artem.kvashnin\\source\\repos\\SimCorpTask\\SimCorp\\WordCounting.Settings\\WordCounting.Settings.csproj": {
+              "projectPath": "C:\\Users\\artem.kvashnin\\source\\repos\\SimCorpTask\\SimCorp\\WordCounting.Settings\\WordCounting.Settings.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

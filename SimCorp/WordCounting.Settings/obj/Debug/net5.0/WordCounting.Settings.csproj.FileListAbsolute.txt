@@ -1,0 +1,17 @@
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Settings\obj\Debug\net5.0\WordCounting.Settings.csproj.AssemblyReference.cache
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Settings\obj\Debug\net5.0\WordCounting.Settings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Settings\obj\Debug\net5.0\WordCounting.Settings.AssemblyInfoInputs.cache
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Settings\obj\Debug\net5.0\WordCounting.Settings.AssemblyInfo.cs
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Settings\obj\Debug\net5.0\WordCounting.Settings.csproj.CoreCompileInputs.cache
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Settings\bin\Debug\net5.0\WordCounting.Settings.deps.json
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Settings\bin\Debug\net5.0\WordCounting.Settings.dll
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Settings\bin\Debug\net5.0\WordCounting.Settings.pdb
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Settings\bin\Debug\net5.0\WordCounting.Abstractions.dll
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Settings\bin\Debug\net5.0\WordCounting.BL.dll
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Settings\bin\Debug\net5.0\WordCounting.Abstractions.pdb
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Settings\bin\Debug\net5.0\WordCounting.BL.pdb
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Settings\obj\Debug\net5.0\WordCounting.Settings.csproj.CopyComplete
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Settings\obj\Debug\net5.0\WordCounting.Settings.dll
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Settings\obj\Debug\net5.0\refint\WordCounting.Settings.dll
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Settings\obj\Debug\net5.0\WordCounting.Settings.pdb
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Settings\obj\Debug\net5.0\ref\WordCounting.Settings.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DXx+FuWCsr7ulr9XAR1MA4i/fFS3zQXG/3iYhPg2S1KvOffNuioGwrvO7mgPXnoMQo1CwYdGazuEG4N5DqKbYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artem.kvashnin\\source\\repos\\SimCorpTask\\SimCorp\\WordCounting.Settings\\WordCounting.Settings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artem.kvashnin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Abstractions\bin\Debug\net5.0\WordCounting.Abstractions.deps.json
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Abstractions\bin\Debug\net5.0\WordCounting.Abstractions.dll
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Abstractions\bin\Debug\net5.0\WordCounting.Abstractions.pdb
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Abstractions\obj\Debug\net5.0\WordCounting.Abstractions.csproj.AssemblyReference.cache
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Abstractions\obj\Debug\net5.0\WordCounting.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Abstractions\obj\Debug\net5.0\WordCounting.Abstractions.AssemblyInfoInputs.cache
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Abstractions\obj\Debug\net5.0\WordCounting.Abstractions.AssemblyInfo.cs
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Abstractions\obj\Debug\net5.0\WordCounting.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Abstractions\obj\Debug\net5.0\WordCounting.Abstractions.dll
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Abstractions\obj\Debug\net5.0\refint\WordCounting.Abstractions.dll
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Abstractions\obj\Debug\net5.0\WordCounting.Abstractions.pdb
+C:\Users\artem.kvashnin\source\repos\SimCorpTask\SimCorp\WordCounting.Abstractions\obj\Debug\net5.0\ref\WordCounting.Abstractions.dll
