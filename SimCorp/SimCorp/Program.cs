@@ -13,6 +13,5 @@ namespace SimCorp
             StartUp startUp = new StartUp(countingLogic, inConsole , readDataFromFile);
             startUp.StartCountAppFromFileToConsole();
         }
-
     }
 }
